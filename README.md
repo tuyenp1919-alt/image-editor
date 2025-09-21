@@ -46,7 +46,7 @@ Công cụ chỉnh sửa ảnh online miễn phí với giao diện thân thiệ
 
 ## 🚀 Demo trực tiếp
 
-Truy cập: [https://tuyenpham.github.io/image-editor](https://tuyenpham.github.io/image-editor)
+Truy cập: [https://tuyenp1919-alt.github.io/image-editor](https://tuyenp1919-alt.github.io/image-editor)
 
 ## 💻 Cài đặt và chạy local
 
@@ -57,7 +57,7 @@ Truy cập: [https://tuyenpham.github.io/image-editor](https://tuyenpham.github.
 ### Chạy với Python
 ```bash
 # Clone repository
-git clone https://github.com/tuyenpham/image-editor.git
+git clone https://github.com/tuyenp1919-alt/image-editor.git
 cd image-editor
 
 # Python 3
@@ -181,12 +181,12 @@ Project này được phân phối dưới MIT License. Xem file [LICENSE](LICEN
 
 ## 🐛 Báo lỗi
 
-Nếu bạn gặp lỗi hoặc có ý tưởng cải tiến, hãy [tạo issue](https://github.com/tuyenpham/image-editor/issues) mới.
+Nếu bạn gặp lỗi hoặc có ý tưởng cải tiến, hãy [tạo issue](https://github.com/tuyenp1919-alt/image-editor/issues) mới.
 
 ## 📧 Liên hệ
 
 **Tuyen Pham**
-- GitHub: [@tuyenpham](https://github.com/tuyenpham)
+- GitHub: [@tuyenp1919-alt](https://github.com/tuyenp1919-alt)
 - Email: your-email@example.com
 
 ## 🙏 Cảm ơn
